@@ -1,3 +1,3 @@
 # deepleaea2017
 
-Homeworks for Deep Learning Course (2017)
+Some homeworks from Deep Learning Course (2017)
